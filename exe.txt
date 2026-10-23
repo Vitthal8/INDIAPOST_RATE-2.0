@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onedir --name "INDIAPOST_RATE 2.0" app.py
